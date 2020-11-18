@@ -10,7 +10,7 @@ else:
     print ('\n',x, "is an odd number")
 
 if x == int(x):
-    print("\nEnter another number to try again or enter q to quit")
+    print("\nEnter another number to try again or enter q to quit:")
 
 
 #exit - maybe once time has been learned make it so if no input is entered after set period then the program auto exits
