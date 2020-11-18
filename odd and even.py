@@ -3,8 +3,7 @@ x = input ("please enter a number: ")
 x = int (x)
 
 #create a function here
-def num():
-    return num
+
 if x%2 == 0:
     print ('\n',x, "is an even number")
 else:
@@ -13,7 +12,6 @@ else:
 if x == int(x):
     print("\nEnter another number to try again or enter q to quit")
 
-num
 
 #exit - maybe once time has been learned make it so if no input is entered after set period then the program auto exits
 #a simple even and odd number checker taken from py4e
